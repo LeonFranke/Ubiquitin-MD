@@ -1,3 +1,3 @@
 # Ubiquitin-MD
-Repository for code of research internship at AG Peter
+Repository for code created during research internship at AG Peter
 LAMMPS 
